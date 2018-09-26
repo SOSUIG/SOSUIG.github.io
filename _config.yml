@@ -1,2 +1,8 @@
 name: SOSUIG
 markdown: Kramdown
+
+title: SOSUIG!
+description: South Ohio State University Idle Group co.ltd
+
+
+parmalink: /blog/:year/:month/:day/:title
