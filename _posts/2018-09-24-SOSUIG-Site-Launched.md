@@ -1,6 +1,7 @@
 ---
 layout: post
-
+title: First Commit
+Date: 2018-09-24
 ---
 # Launched!
 ---
