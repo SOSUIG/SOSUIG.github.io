@@ -2,8 +2,13 @@
 	<html lang="en">
 		<head>
 			<title>{{ page.title }}</title>
+			<meta charset="utf-8">
+			<meta name="viewport" width="device-width, initial-scale=1.0">
+			<meta name="description" content="{{ page.description }}">
+			<meta name="author" content="SOSUIG">
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/style.css">
+			{% include analytics.html %}
 		</head>
 		<body>
 			<nav>
