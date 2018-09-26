@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "SOSUIG Launches Site"
-date: 2018-09-24
+
 ---
 # Launched!
 ---
